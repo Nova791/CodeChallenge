@@ -1,0 +1,14 @@
+Step 1:
+    Trigger the zero generation alert with config "sunset" toggled      |       Verify an alert is NOT generated
+
+Step 2:
+    Trigger the zero generation alert with config "sunrise" toggled     |       Verify an alert is generated in the state "Open"
+
+Step 3:
+    Set the config "sunset" to be toggled                               |       Verify the alert state is still set to "Open"
+
+Step 4:
+    Login as the test user and acknowledge the alert                    |       Verify the alert state is set to "Acknowledged"
+
+Step 5:
+    Untrigger the zero generation alert and set the config to "Sunrise" |       Verify the alert state is set to "Closed"
