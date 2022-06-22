@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7d8hT5KteivdAOtebSB1ZkSgZSdokOd7UbbJZzEr7e6e7A/b5b8FyoM6jTr/TaS8vKWPrib1ce0SLJfNYEBmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nova\\Desktop\\CodeChallenge\\CodeChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nova\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Nova\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
+    "C:\\Users\\Nova\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.31.0.1\\selenium.webdriver.geckodriver.0.31.0.1.nupkg.sha512",
+    "C:\\Users\\Nova\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

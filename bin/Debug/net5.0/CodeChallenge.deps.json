@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodeChallenge/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.2.0",
+          "Selenium.WebDriver.GeckoDriver": "0.31.0.1"
+        },
+        "runtime": {
+          "CodeChallenge.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.2.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/net5.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.GeckoDriver/0.31.0.1": {}
+    }
+  },
+  "libraries": {
+    "CodeChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1FE1Y1F0p6zuS/1RybCxkuoywVvcV2XJv10uqShOTNSpY/hyLM3Hk/D03CPmqkZ4l2vYArcjlunTV/FSY7dpmA==",
+      "path": "selenium.webdriver/4.2.0",
+      "hashPath": "selenium.webdriver.4.2.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.GeckoDriver/0.31.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-39nhn8qjgssE/Q/G23m+X9AiVcK71z8hRYmN3yeCVV9LZ9Y/E5s8eAwi6h52KLEnOxqcq23hsV4D4Hu2GYxRJQ==",
+      "path": "selenium.webdriver.geckodriver/0.31.0.1",
+      "hashPath": "selenium.webdriver.geckodriver.0.31.0.1.nupkg.sha512"
+    }
+  }
+}
