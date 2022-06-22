@@ -1,0 +1,8 @@
+Step 1:
+    Trigger the zero generation alert                   |       Verify the Alert state is set to "Open"
+
+Step 2:
+    Verify an email was sent to the user                |       Verify the Alert state is still set to "Open"
+
+Step 3:
+    Spoof the date to the next day                      |       Verify the email is sent again

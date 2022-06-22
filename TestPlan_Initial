@@ -1,0 +1,11 @@
+Step 1:
+    Trigger the zero generation alert                   |       Verify the Alert state is set to "Open"
+
+Step 2:
+    Verify an email was sent to the user                |       Verify the Alert state is still set to "Open"
+
+Step 3:
+    Login as the test user, and acknowledge the Alert   |       Verify the Alert state is set to "Acknowledged"
+
+Step 4:
+    Untrigger the zero generation alert                 |       Verify the Alert state is set to "Closed"
